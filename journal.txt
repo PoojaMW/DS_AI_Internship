@@ -1,0 +1,3 @@
+Name: Pooja , Daily Goal: Learn Python file handling
+Name: Jyoti, Daily Goal: Practice pandas
+Name: Shiva, Daily Goal: Revise ML basics
