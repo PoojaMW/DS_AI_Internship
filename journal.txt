@@ -2,3 +2,6 @@ Name: Pooja , Daily Goal: Learn Python file handling
 Name: Jyoti, Daily Goal: Practice pandas
 Name: Shiva, Daily Goal: Revise ML basics
 Name: & C:/Users/pooja/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/pooja/OneDrive/Desktop/DS_AI_Internship/DS_AI_Internship/src/day6_files/journal.py, Daily Goal: & C:/Users/pooja/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/pooja/OneDrive/Desktop/DS_AI_Internship/DS_AI_Internship/src/day6_files/try.py
+Name: POOJA, Daily Goal: Learning python
+Name: JYOTI, Daily Goal: Preparing cet exam
+Name: Shivu, Daily Goal: I want to get job after MSc& C:/Users/pooja/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/pooja/OneDrive/Desktop/DS_AI_Internship/DS_AI_Internship/src/day7_files/read_students.py 
