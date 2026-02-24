@@ -9,3 +9,4 @@ width = float(input("Enter width:"))
 area, perimeter = calc_rectangle(length, width)
 
 print(f"Area:{area}, Perimeter:{perimeter}")
+
